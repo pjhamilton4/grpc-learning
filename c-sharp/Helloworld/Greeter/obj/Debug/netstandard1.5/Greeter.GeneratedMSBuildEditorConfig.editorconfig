@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = Greeter
+build_property.ProjectDir = D:\code\grpc-learning\c-sharp\Helloworld\Greeter\

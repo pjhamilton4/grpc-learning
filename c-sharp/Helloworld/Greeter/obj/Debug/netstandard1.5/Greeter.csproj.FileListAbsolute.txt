@@ -1,0 +1,10 @@
+D:\code\grpc-learning\c-sharp\Helloworld\Greeter\obj\Debug\netstandard1.5\Greeter.csproj.AssemblyReference.cache
+D:\code\grpc-learning\c-sharp\Helloworld\Greeter\obj\Debug\netstandard1.5\Greeter.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\grpc-learning\c-sharp\Helloworld\Greeter\bin\Debug\netstandard1.5\Greeter.deps.json
+D:\code\grpc-learning\c-sharp\Helloworld\Greeter\bin\Debug\netstandard1.5\Greeter.dll
+D:\code\grpc-learning\c-sharp\Helloworld\Greeter\bin\Debug\netstandard1.5\Greeter.pdb
+D:\code\grpc-learning\c-sharp\Helloworld\Greeter\obj\Debug\netstandard1.5\Greeter.AssemblyInfoInputs.cache
+D:\code\grpc-learning\c-sharp\Helloworld\Greeter\obj\Debug\netstandard1.5\Greeter.AssemblyInfo.cs
+D:\code\grpc-learning\c-sharp\Helloworld\Greeter\obj\Debug\netstandard1.5\Greeter.csproj.CoreCompileInputs.cache
+D:\code\grpc-learning\c-sharp\Helloworld\Greeter\obj\Debug\netstandard1.5\Greeter.dll
+D:\code\grpc-learning\c-sharp\Helloworld\Greeter\obj\Debug\netstandard1.5\Greeter.pdb

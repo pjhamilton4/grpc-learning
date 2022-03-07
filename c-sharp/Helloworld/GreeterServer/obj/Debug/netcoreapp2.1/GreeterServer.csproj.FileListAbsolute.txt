@@ -1,0 +1,16 @@
+D:\code\grpc-learning\c-sharp\Helloworld\GreeterServer\bin\Debug\netcoreapp2.1\GreeterServer.deps.json
+D:\code\grpc-learning\c-sharp\Helloworld\GreeterServer\bin\Debug\netcoreapp2.1\GreeterServer.runtimeconfig.json
+D:\code\grpc-learning\c-sharp\Helloworld\GreeterServer\bin\Debug\netcoreapp2.1\GreeterServer.runtimeconfig.dev.json
+D:\code\grpc-learning\c-sharp\Helloworld\GreeterServer\bin\Debug\netcoreapp2.1\GreeterServer.dll
+D:\code\grpc-learning\c-sharp\Helloworld\GreeterServer\bin\Debug\netcoreapp2.1\GreeterServer.pdb
+D:\code\grpc-learning\c-sharp\Helloworld\GreeterServer\bin\Debug\netcoreapp2.1\Greeter.dll
+D:\code\grpc-learning\c-sharp\Helloworld\GreeterServer\bin\Debug\netcoreapp2.1\Greeter.pdb
+D:\code\grpc-learning\c-sharp\Helloworld\GreeterServer\obj\Debug\netcoreapp2.1\GreeterServer.csproj.AssemblyReference.cache
+D:\code\grpc-learning\c-sharp\Helloworld\GreeterServer\obj\Debug\netcoreapp2.1\GreeterServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\grpc-learning\c-sharp\Helloworld\GreeterServer\obj\Debug\netcoreapp2.1\GreeterServer.AssemblyInfoInputs.cache
+D:\code\grpc-learning\c-sharp\Helloworld\GreeterServer\obj\Debug\netcoreapp2.1\GreeterServer.AssemblyInfo.cs
+D:\code\grpc-learning\c-sharp\Helloworld\GreeterServer\obj\Debug\netcoreapp2.1\GreeterServer.csproj.CoreCompileInputs.cache
+D:\code\grpc-learning\c-sharp\Helloworld\GreeterServer\obj\Debug\netcoreapp2.1\GreeterServer.csproj.CopyComplete
+D:\code\grpc-learning\c-sharp\Helloworld\GreeterServer\obj\Debug\netcoreapp2.1\GreeterServer.dll
+D:\code\grpc-learning\c-sharp\Helloworld\GreeterServer\obj\Debug\netcoreapp2.1\GreeterServer.pdb
+D:\code\grpc-learning\c-sharp\Helloworld\GreeterServer\obj\Debug\netcoreapp2.1\GreeterServer.genruntimeconfig.cache
